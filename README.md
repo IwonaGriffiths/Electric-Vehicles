@@ -3,6 +3,6 @@ I built a Power BI Report that shows an Overview of Electric Cars across US betw
 I built Power BI report just by looking at how it looks in the video. it was a great practice for me. 
 I also ran a few SQL queries to compare results in Power BI so that I can be sure data in the Dashboard is correct. 
 
-Data for the report was taken from [keggle website](https://www.kaggle.com/datasets/willianoliveiragibin/electric-vehicle-population/code)
+Data for the report was taken from [kaggle website](https://www.kaggle.com/datasets/willianoliveiragibin/electric-vehicle-population/code)
 
 ![Electric cars PowerBi report](https://github.com/IwonaGriffiths/Electric-Vehicles/assets/173150801/f2935d3d-c3fc-497f-99a9-645032e796a6)
